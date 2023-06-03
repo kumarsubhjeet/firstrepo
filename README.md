@@ -1,2 +1,2 @@
 # firstrepo
-for learning git
+for learning git and its features
